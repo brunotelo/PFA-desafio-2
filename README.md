@@ -19,7 +19,7 @@ Divirtam-se e bom trabalho!
 ## PASSO 1 - Clone o projeto
 Rode no seu terminal o seguinte comando:
 ```
-docker compose up -d
+git clone https://github.com/brunotelo/PFA-desafio-2.git
 ```
 
 ## PASSO 2 - Criar as imagens e inicializar o container
